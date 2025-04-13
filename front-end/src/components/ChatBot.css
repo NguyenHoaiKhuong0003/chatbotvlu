@@ -1,0 +1,76 @@
+
+.sidebar-left, .sidebar-right {
+  position: absolute;
+  width: 16rem;
+  top: 2rem;
+  z-index: 10;
+}
+
+.sidebar-menu {
+  background-color: #f9fafb;
+  border-radius: 1rem;
+  padding: 1rem;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+
+.common-question {
+  max-width: 20rem;
+}
+
+.input-chat {
+  border-radius: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #ddd;
+  width: 100%;
+}
+
+.send-button {
+  border-radius: 1rem;
+  background-color: #4c6ef5;
+  color: white;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.chat-start, .chat-end {
+  margin-bottom: 1rem;
+}
+
+.chat-bubble {
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.chat-bubble-info {
+  background-color: #eff6ff;
+  color: #333;
+}
+
+
+.chat-image {
+  margin-right: 1rem;
+}
+
+.avatar img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.reference-label {
+  cursor: pointer;
+  margin-right: 0.5rem;
+  background-color: #D1CECE;
+}
+
+.divider {
+  margin: 0.5rem 0;
+}
+.hero-container {
+  height: 85vh;
+  width: 100%;
+  background-color: #D1CECE;
+}
+

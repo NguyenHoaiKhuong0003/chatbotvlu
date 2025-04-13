@@ -1,0 +1,11 @@
+/* Đặt lớp cho logo */
+.logo {
+  width: 150%;
+  height: 150%;
+  position: relative;
+  left:50%;  /* Vị trí X */
+  top: -30%;   /* Vị trí Y */
+}
+.capitalized-text {
+  text-transform: capitalize;
+}
